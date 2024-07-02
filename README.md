@@ -20,5 +20,5 @@ Welcome to my GitHub profile! I'm a web developer specializing in the MERN stack
 
 ![MERN Stack Banner](https://cdn.servermania.com/kb/KB-MERN-Featured.jpg)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=RafiulAlamRami&theme=dark)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=RafiulAlamRami&theme=dark" alt="GitHub Streak" /></a>
 

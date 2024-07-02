@@ -33,23 +33,22 @@ Welcome to my GitHub profile! I'm a web developer specializing in the MERN stack
 <br>
 <p align="center">
 <img src="https://i.ibb.co/ySXjBVp/HTML.png"/>
+<img src="https://i.ibb.co/RD2Y220/css.png" />
+<img src="https://i.ibb.co/WnttBd0/Java-Script.png" />
+<img src="https://i.ibb.co/7rvN94W/python.png" />
+<img src="https://i.ibb.co/qM3cHHg/c.png" />
+</p>
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQulnz6YBuAJR2Mhu23faS3DfvtdhVtJEfcht_A0K3bCUFCnaSe_NtM5eY_O_MMnTmRm6c&usqp=CAU" />
-
+<p align="center">
+<img src="https://i.ibb.co/G9Zn2Vw/react.png"/>
+<img src="https://i.ibb.co/MPM3B5F/firebase.png"/>
+<img src="https://i.ibb.co/Bg98FQd/tailwind.png"/>
 
 </p>
 <p align="center">
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/redux.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/sass.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Bootsrap.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/firebase.png"/>
-</p>
-<p align="center">
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png"/>
+<img src="https://i.ibb.co/J3KdKn0/node.png"/>
+<img src="https://i.ibb.co/yNw9QQw/express.png"/>
+<img src="https://i.ibb.co/BPT72rP/mongo.png"/>
 </p><br/>
 
 

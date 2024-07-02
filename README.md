@@ -4,7 +4,6 @@
 **RafiulAlamRami/RafiulAlamRami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
--Welcome to my GitHub profile! I'm a web developer specializing in the MERN stack (MongoDB, Express.js, React, Node.js). I have a passion for creating dynamic, user-friendly, and high -performance web applications. My projects showcase my dedication to writing clean, maintainable code and staying up-to-date with the latest industry trends. Feel free to explore my -repositories and connect with me for collaboration on exciting projects!
 
 
 - 🔭 I’m currently working on ...
@@ -16,3 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+-Welcome to my GitHub profile! I'm a web developer specializing in the MERN stack (MongoDB, Express.js, React, Node.js). I have a passion for creating dynamic, user-friendly, and high -performance web applications. My projects showcase my dedication to writing clean, maintainable code and staying up-to-date with the latest industry trends. Feel free to explore my -repositories and connect with me for collaboration on exciting projects!

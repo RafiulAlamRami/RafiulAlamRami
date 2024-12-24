@@ -22,7 +22,7 @@ I take pride in writing clean, maintainable code and staying updated with the la
 
 Feel free to explore my repositories and connect with me to collaborate on innovative and exciting projects!<p/>
 
-![MERN Stack Banner](https://cdn.servermania.com/kb/KB-MERN-Featured.jpg)
+![MERN Stack Banner](https://media.licdn.com/dms/image/v2/C4E12AQG1IyWYFM7JXg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1618243102992?e=1740614400&v=beta&t=dzwkeRdcT4Q7N7JK0lgeL50LCOQZy7K958wOvwe731g)
 
 ## :chart_with_upwards_trend: Current Stats
 

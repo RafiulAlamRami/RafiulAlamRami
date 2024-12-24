@@ -27,6 +27,8 @@ Feel free to explore my repositories and connect with me to collaborate on innov
 
 ![MERN Stack Banner](https://payload-cms.code-b.dev/media/MEAN%20Stack%20Development%20Company.png)
 
+<br/>
+
 ## :chart_with_upwards_trend: Current Stats
 
 <br />

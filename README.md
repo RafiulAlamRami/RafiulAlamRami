@@ -22,6 +22,9 @@ I take pride in writing clean, maintainable code and staying updated with the la
 
 Feel free to explore my repositories and connect with me to collaborate on innovative and exciting projects!<p/>
 
+<br/>
+<br/>
+
 ![MERN Stack Banner](https://payload-cms.code-b.dev/media/MEAN%20Stack%20Development%20Company.png)
 
 ## :chart_with_upwards_trend: Current Stats

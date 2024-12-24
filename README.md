@@ -16,7 +16,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p>Welcome to my GitHub profile! I'm a web developer specializing in the MERN stack (MongoDB, Express.js, React, Node.js). I have a passion for creating dynamic, user-friendly, and high -performance web applications. My projects showcase my dedication to writing clean, maintainable code and staying up-to-date with the latest industry trends. Feel free to explore my -repositories and connect with me for collaboration on exciting projects!<p/>
+<p>Welcome to my GitHub profile! I'm a Junior Web Developer specializing in Angular and passionate about building dynamic, responsive, and high-performance web applications. My expertise spans frontend and full-stack development, including experience with the MEAN stack ( Angular ), MERN stack and RESTful APIs.
+
+I take pride in writing clean, maintainable code and staying updated with the latest web development trends. My projects reflect my dedication to creating user-friendly solutions and solving complex challenges.
+
+Feel free to explore my repositories and connect with me to collaborate on innovative and exciting projects!<p/>
 
 ![MERN Stack Banner](https://cdn.servermania.com/kb/KB-MERN-Featured.jpg)
 
